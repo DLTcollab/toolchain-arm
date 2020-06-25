@@ -1,0 +1,2 @@
+*.md text=auto
+*.tar.xz filter=lfs diff=lfs merge=lfs -text
